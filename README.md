@@ -21,7 +21,7 @@ $ npm install
 
 #### 2) Run the presentation.
 ```sh
-$ npm run start
+$ npm run startls
 ```
 
 # Start Playing!

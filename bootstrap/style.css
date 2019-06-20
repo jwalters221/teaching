@@ -1,0 +1,15 @@
+.red {
+    background-color: red;
+    color: #fff;
+    background-clip: content-box;
+    text-align: center;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.left {
+    min-height: 400px;
+}
+
