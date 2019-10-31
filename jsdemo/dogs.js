@@ -21,3 +21,12 @@ let data = [
   },
 ];
 
+    // Select only the dogs
+    // Translate their ages into dog years (multiply them by seven)
+    // Sum the results
+
+    let dogs = data.filter((x) => {
+        return x.type === 'dog';
+    });
+
+    console.log(dogs);
