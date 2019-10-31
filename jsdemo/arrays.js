@@ -6,7 +6,7 @@ window.onload = () => {
 
     console.log(myNumbers);
 
-    /*
+
 
     console.log(myNumbers.length);
 
@@ -36,5 +36,5 @@ window.onload = () => {
 
     console.log(myColors);
 
-    */
+
 }
