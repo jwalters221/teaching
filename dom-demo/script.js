@@ -1,6 +1,6 @@
 window.onload = () => {
 
-/*
+
 
   let btnArray = document.querySelectorAll('.btn');
 
@@ -11,12 +11,8 @@ window.onload = () => {
     btnArray[y].style.color = 'white';
   });
 
-*/
+/*
 
-
-  //document.querySelector('#more-inner-content').innerHTML = "The dom is even more awesome!";
-
-  /*
   let body = document.querySelector('body');
 
   body.style.backgroundColor = 'red';
@@ -30,13 +26,13 @@ window.onload = () => {
   console.log(box);
 
   box.forEach((x) => {
-
+      console.log(x);
   });
 
 
   let list = document.querySelector('#theList');
 
-  //console.log(list);
+
 
   let listArray = list.childNodes;
 
@@ -45,7 +41,6 @@ window.onload = () => {
   });
 
 
-  //document.querySelector('#theList').removeChild(list.childNodes);
 
 
   document.querySelector('#content').innerHTML = "<div>div 1</div><div>div2</div>";
@@ -59,7 +54,7 @@ window.onload = () => {
   content.style.color = '#fff';
 
 
- // let body = document.querySelector('body');
+  let body = document.querySelector('body');
 
   body.style.backgroundColor = 'red';
 
