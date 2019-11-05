@@ -6,12 +6,14 @@ window.onload = () => {
 
   console.log(btnArray);
 
+  /*
+
   btnArray.forEach((x, y) => {
     btnArray[y].style.backgroundColor = 'red';
     btnArray[y].style.color = 'white';
   });
 
-/*
+
 
   let body = document.querySelector('body');
 
