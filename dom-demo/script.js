@@ -1,12 +1,12 @@
 window.onload = () => {
 
-
+/*
 
   let btnArray = document.querySelectorAll('.btn');
 
   console.log(btnArray);
 
-  /*
+
 
   btnArray.forEach((x, y) => {
     btnArray[y].style.backgroundColor = 'red';
@@ -67,6 +67,8 @@ window.onload = () => {
     div[y].style.backgroundColor = '#fff';
   });
 
+  */
+
    let greenBackground = () => {
      document.querySelector('body').style.backgroundColor = 'green';
    };
@@ -77,5 +79,5 @@ window.onload = () => {
 
    document.querySelector('#btnYellow').addEventListener("click", () => { document.querySelector('body').style.backgroundColor = 'yellow'; });
 
-*/
+
 };
