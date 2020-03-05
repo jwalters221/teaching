@@ -23,9 +23,6 @@ let myFind = myArray.find((y) => {
     return y > 2;
 });
 
-//reduce
-let add = myArray.reduce((sum, elem) => sum + elem)
-
 console.log(myMap);
 console.log(myFilter);
 console.log(myFind);
