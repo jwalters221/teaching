@@ -67,7 +67,7 @@ window.onload = () => {
     div[y].style.backgroundColor = '#fff';
   });
 
-  */
+  
 
    let greenBackground = () => {
      document.querySelector('body').style.backgroundColor = 'green';
@@ -78,6 +78,6 @@ window.onload = () => {
 
 
    document.querySelector('#btnYellow').addEventListener("click", () => { document.querySelector('body').style.backgroundColor = 'yellow'; });
-
+*/
 
 };
